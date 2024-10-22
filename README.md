@@ -16,7 +16,7 @@ open_to_contributions: true
 ```
 
 ## Languages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,angular,mongo)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,mongo)](https://skillicons.dev)
 
 ## Cloud & Tools
 [![Cloud Tools](https://skillicons.dev/icons?i=aws,github,jenkins)](https://skillicons.dev)
