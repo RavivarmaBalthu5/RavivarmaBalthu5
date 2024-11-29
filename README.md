@@ -8,11 +8,9 @@ I'm a passionate **Software Engineer** with a focus on backend and frontend deve
 ## 🚀 About Me
 
 ```yaml
-name: Ravivarma
+name: Ravivarma, Balthu
 role: Software Engineer
-interests: Full-stack development, Cloud technologies
-currently_learning: Advanced AWS services, Angular
-open_to_contributions: true
+interests: Full Stack development, Cloud technologies
 ```
 
 ## Languages & Frameworks
@@ -27,7 +25,3 @@ open_to_contributions: true
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavivarmaBalthu5&layout=compact&theme=radical)
 
-
-## Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RavivarmaBalthu5&label=Profile%20views&color=0e75b6&style=flat" alt="RavivarmaBalthu5" /> </p>
