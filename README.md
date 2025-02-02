@@ -5,13 +5,6 @@ I'm a passionate **Software Engineer** with a focus on backend and frontend deve
 
 ---
 
-## 🚀 About Me
-
-```yaml
-name: Ravivarma, Balthu
-role: Software Engineer
-interests: Full Stack development, Cloud technologies
-```
 
 ## Languages & Frameworks
 [![Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,mongo)](https://skillicons.dev)
